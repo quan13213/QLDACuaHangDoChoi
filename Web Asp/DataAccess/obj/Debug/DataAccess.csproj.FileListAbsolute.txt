@@ -1,0 +1,25 @@
+C:\Users\Administrator\Desktop\NGOTHE\Nhom3\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\NGOTHE\Nhom3\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\NGOTHE\Nhom3\DataAccess\bin\Debug\Core.dll
+C:\Users\Administrator\Desktop\NGOTHE\Nhom3\DataAccess\bin\Debug\Core.pdb
+C:\Users\Administrator\Desktop\NGOTHE\Nhom3\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NGOTHE\Nhom3\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\NGOTHE\Nhom3\DataAccess\obj\Debug\DataAccess.pdb
+F:\HOCTAP\WebNangCao\Web Asp\DataAccess\bin\Debug\DataAccess.dll
+F:\HOCTAP\WebNangCao\Web Asp\DataAccess\bin\Debug\DataAccess.pdb
+F:\HOCTAP\WebNangCao\Web Asp\DataAccess\bin\Debug\Core.dll
+F:\HOCTAP\WebNangCao\Web Asp\DataAccess\bin\Debug\Core.pdb
+F:\HOCTAP\WebNangCao\Web Asp\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+F:\HOCTAP\WebNangCao\Web Asp\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+F:\HOCTAP\WebNangCao\Web Asp\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+F:\HOCTAP\WebNangCao\Web Asp\DataAccess\obj\Debug\DataAccess.dll
+F:\HOCTAP\WebNangCao\Web Asp\DataAccess\obj\Debug\DataAccess.pdb
+E:\A.QuanNguyen\WebNangCao\Web Asp\DataAccess\bin\Debug\DataAccess.dll
+E:\A.QuanNguyen\WebNangCao\Web Asp\DataAccess\bin\Debug\DataAccess.pdb
+E:\A.QuanNguyen\WebNangCao\Web Asp\DataAccess\bin\Debug\Core.dll
+E:\A.QuanNguyen\WebNangCao\Web Asp\DataAccess\bin\Debug\Core.pdb
+E:\A.QuanNguyen\WebNangCao\Web Asp\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+E:\A.QuanNguyen\WebNangCao\Web Asp\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\A.QuanNguyen\WebNangCao\Web Asp\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\A.QuanNguyen\WebNangCao\Web Asp\DataAccess\obj\Debug\DataAccess.dll
+E:\A.QuanNguyen\WebNangCao\Web Asp\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,23 @@
+C:\Users\Administrator\Desktop\NGOTHE\Nhom3\Core\bin\Debug\Core.dll
+C:\Users\Administrator\Desktop\NGOTHE\Nhom3\Core\bin\Debug\Core.pdb
+C:\Users\Administrator\Desktop\NGOTHE\Nhom3\Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NGOTHE\Nhom3\Core\obj\Debug\Core.dll
+C:\Users\Administrator\Desktop\NGOTHE\Nhom3\Core\obj\Debug\Core.pdb
+F:\HOCTAP\WebNangCao\Web Asp\Core\bin\Debug\Core.dll
+F:\HOCTAP\WebNangCao\Web Asp\Core\bin\Debug\Core.pdb
+F:\HOCTAP\WebNangCao\Web Asp\Core\obj\Debug\Core.csprojAssemblyReference.cache
+F:\HOCTAP\WebNangCao\Web Asp\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+F:\HOCTAP\WebNangCao\Web Asp\Core\obj\Debug\Core.dll
+F:\HOCTAP\WebNangCao\Web Asp\Core\obj\Debug\Core.pdb
+E:\A.QuanNguyen\WebNangCao\Web Asp\Core\bin\Debug\Core.dll
+E:\A.QuanNguyen\WebNangCao\Web Asp\Core\bin\Debug\Core.pdb
+E:\A.QuanNguyen\WebNangCao\Web Asp\Core\obj\Debug\Core.csprojAssemblyReference.cache
+E:\A.QuanNguyen\WebNangCao\Web Asp\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+E:\A.QuanNguyen\WebNangCao\Web Asp\Core\obj\Debug\Core.dll
+E:\A.QuanNguyen\WebNangCao\Web Asp\Core\obj\Debug\Core.pdb
+E:\A.Code\C# ASP\Web Asp\Core\bin\Debug\Core.dll
+E:\A.Code\C# ASP\Web Asp\Core\bin\Debug\Core.pdb
+E:\A.Code\C# ASP\Web Asp\Core\obj\Debug\Core.csprojAssemblyReference.cache
+E:\A.Code\C# ASP\Web Asp\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+E:\A.Code\C# ASP\Web Asp\Core\obj\Debug\Core.dll
+E:\A.Code\C# ASP\Web Asp\Core\obj\Debug\Core.pdb
